@@ -1,0 +1,26 @@
+author: Justin M Fear
+email: justin.m.fear@gmail.com
+project: Example Project
+git: https://github.com/jfear/example_project
+assembly: dmel
+tag: r6-26
+release_date: "2019_01"
+
+fliersprops:
+  alpha: .1
+
+chrom_order:
+  - "X"
+  - "2L"
+  - "2R"
+  - "3L"
+  - "3R"
+  - "4"
+  - "Y"
+
+major_autosomes:
+  - "2L"
+  - "2R"
+  - "3L"
+  - "3R"
+

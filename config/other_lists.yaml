@@ -1,0 +1,81 @@
+# List of T2A Gal4 lines we have looked at.
+t2a:
+  - 'vari'
+  - 'CG42458'
+  - 'CG34383'
+  - 'CG34394'
+  - 'CG7255'
+  - 'Wnt4'
+  - 'cv-2'
+  - 'Eaf'
+  - 'tun'
+  - 'Zasp52'
+  - 'Su(var)2-10'
+  - 'GEFmeso'
+  - 'ths'
+  - 'pk'
+  - 'rdo'
+  - 'bin3'
+  - 'CG2082'
+  - 'Khc-73'
+  - 'FER'
+  - 'CG31075'
+  - 'QC'
+  - 'dally'
+  - 'CG11658'
+  - 'PyK'
+  - 'PH4alphaEFB'
+  - 'RasGAP1'
+  - 'Ino80'
+
+# List of GAL4 lines we have looked at
+gal4:
+  - 'CG11658'
+  - 'Notum'
+  - 'CadN '
+  - 'Tsp74F'
+  - 'sano'
+  - 'rau'
+  - 'CG32354'
+  - 'trn'
+  - 'Irk1'
+  - 'bnl'
+  - 'hng3'
+  - 'tkv'
+  - 'CG34383'
+  - 'CG34323'
+  - 'qjt'
+  - 'qin'
+  - 'qin'
+  - 'klu'
+  - 'CR46216'
+  - 'mael'
+  - 'CG9272'
+  - 'CR33319'
+  - 'Grx1t'
+  - 'CG43059'
+  - 'CG6888'
+  - 'CG4218'
+  - 'CR44852'
+  - 'CG31644'
+  - 'bol'
+  - 'svp'
+  - 'svp'
+  - 'CG4822'
+  - 'Meltrin'
+  - 'Fili'
+  - 'Papss'
+  - 'AdamTS-A'
+  - 'cdi'
+  - 'eya'
+  - 'CG42673'
+
+# Dosage compensation genes from FlyBase MSL complex
+msl_genes:
+  - FBgn0002774 # mle
+  - FBgn0014340 # mof
+  - FBgn0005617 # msl-1
+  - FBgn0005616 # msl-2
+  - FBgn0002775 # msl-3
+  - FBgn0019660 # rox2
+  - FBgn0019661 # rox1
