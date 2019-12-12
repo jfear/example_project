@@ -1,0 +1,11 @@
+# Really Cool Analysis
+
+This is a `Rmarkdown` file. It can also be used to interleave code and text.
+
+```{r block1}
+x = 10
+y = 12
+print(x + y)
+```
+
+To store the code output you have to compile the script into a html or pdf file.
